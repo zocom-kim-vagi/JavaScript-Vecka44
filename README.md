@@ -10,8 +10,9 @@ JSON
 
 Design Pattern  (film)
 
-Rep. eventListener, Array Object // Övning
+Rep. eventListener  // Övning
 
+Rep om Array och Object
 Nya övningar Array, Object ligger i mappen ObjectTentamen
 
 Inför tentamen
