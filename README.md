@@ -1,6 +1,6 @@
 # JavaScript-Vecka44
 
-
+Om förra vecka, vad vi lärst oss
 
 Genomgång övningar // Kollar på onsdagens övning med Local Storage
 
@@ -10,13 +10,11 @@ JSON
 
 Design Pattern  (film)
 
-Rep. eventListener, Array Object  // Gör kod tillsammans
+Rep. eventListener, Array Object // Övming vi gör tillsammans i VSCode
 
 Nya övningar Array, Object ligger i mappen ObjectTentamen
 
 Inför tentamen
-
-
 
 
  
