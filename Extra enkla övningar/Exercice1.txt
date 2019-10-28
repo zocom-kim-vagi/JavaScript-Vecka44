@@ -1,0 +1,6 @@
+
+[utmaning] Gör ett element som ändrar storlek på texten inuti sig 
+när muspekaren befinner sig över elementet, utan att hela elementet tar 
+större plats. Det går att göra med bara CSS, men här ska du använda mouse events.
+
+8 Gör en sida med ett textfält. När användaren håller nere en tangent ska du skriva ut i en div vilka knappar som hålls nere. Vilka events ska man använda? Tips: googla på MDN keyevent.
